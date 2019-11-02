@@ -1379,7 +1379,7 @@ it('Allows selection of Wincoin', function(done) {
 it('Allows selection of Wecoin', function(done) {
     var params = {
         selectText: "WE - Wecoin",
-        firstAddress: "UdQnk4AxQ8JR7Ayc678rpbLaCdNGNx1CPC",
+        firstAddress: "WcKhhhTvGhxnWc9jRjAWm9vao7Nhp8TK1d",
     };
     testNetwork(done, params);
 });
